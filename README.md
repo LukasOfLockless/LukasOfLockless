@@ -1,7 +1,7 @@
 - 👋 I’m @LukasOfLockless
-- 👀 I’m interested in juicy games and code behind them
-- 🌱 I’m currently learning some web stuff and  3D modeling for animation or like them procedural stuff that can easily multiply content
-- 💞️ I’m looking to collaborate on unity PyTorch AI development for 2D Platformers
+- 👀 I’m interested in juicy games and clarity of exposition
+- 🌱 I’m currently learning basic principles of UI UX design and training in css 
+- 💞️ I’m looking to have weekend gamejam with a team that uses Unreal game engine
 - 📫 there's got to be a way to reach me through github
 
 <!---
