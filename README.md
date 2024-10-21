@@ -1,6 +1,6 @@
 - 👋 hello this is @Lockless
 - 👀 I’m interested in big cash money stuff
-- 🌱 I’m done data analytics and UX 
+- 🌱 I’ve done data analytics and UX 
 - 💞️ I’m just storing code here
 
 <!---
